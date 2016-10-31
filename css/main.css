@@ -1,0 +1,35 @@
+body {
+	background-color: rgb(0, 121, 191);
+}
+
+h1 {
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.divuno{
+	width: 250px;
+	background-color: #D8D8D8;
+	margin-top: 5px;
+	margin-left: 10px;
+	display: inline-block;
+}
+
+#otra_li {
+	color: gray;
+	list-style-type: none;
+}
+
+.draggable {
+	position: relative;
+	cursor: default;
+	list-style: none;
+}
+
+.dragOver {
+	background-color: rgb(232, 232, 255) !important;
+}
+
+#lista {
+	list-style: none;
+}
